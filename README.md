@@ -1,5 +1,9 @@
 # My-Certifications:
-## Accenture Data Analytics and Visualization Job simulation - Forage                          			
+## Analyzing and Visualizing Data with Microsoft Power BI - Forage
+[Crendential URL](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_Dfcy3mZjnQe6fon8w_1718045448951_completion_certificate.pdf)
+•	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+## Accenture Data Analytics and Visualization Job simulation - Forage
+[Credential URL](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_Dfcy3mZjnQe6fon8w_1717208396003_completion_certificate.pdf)
 •	Participated in a typical project team at Accenture, used Excel and Data Analytics & Visualization skills in a realistic context.
 ## Data Visualization using Tableau - 360digiTMG					                                        
 •	Skilled in creating basic and advanced charts using Tableau Desktop. Competent in generating tables, hierarchies, calculated fields, and LOD expressions.
